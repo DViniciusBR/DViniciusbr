@@ -20,15 +20,6 @@
 </br>
 </br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DViniciusBR/DViniciusBR/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DViniciusBR/DViniciusBR/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/DViniciusBR/DViniciusBR/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</br>
-</br>
-
 <p align="center">
 <a href="https://github.com/dviniciusbr">
 <img height='260px' src='https://github-readme-stats-dviniciusbr.vercel.app/api?username=dviniciusbr&count_private=true&show_icons=true&bg_color=000000&icon_color=FFFFFF&locale=pt-br&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15'></img>
