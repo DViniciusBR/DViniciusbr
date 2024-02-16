@@ -7,7 +7,7 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left">Olá, eu sou Davi. Seja bem-vindo ao meu perfil!</h1>
+ <h1 align="left">DAVI VINICIUS</h1>
  <a href="https://www.instagram.com/davi.viniciusbr/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -22,8 +22,8 @@
 
 <p align="center">
 <a href="https://github.com/dviniciusbr">
-<img height='180em' src='https://github-readme-stats-dviniciusbr.vercel.app/api?username=dviniciusbr&count_private=true&show_icons=true&bg_color=000000&icon_color=FFFFFF&locale=pt-br&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15'></img>
-<img height='180em' src='https://github-readme-stats-dviniciusbr.vercel.app/api/top-langs/?username=dviniciusbr&count_private=true&show_icons=true&bg_color=000000&icon_color=FFFFFF&locale=pt-br&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15'></img>
+<img height='200em' src='https://github-readme-stats-dviniciusbr.vercel.app/api?username=dviniciusbr&count_private=true&show_icons=true&bg_color=000000&icon_color=FFFFFF&locale=pt-br&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15'></img>
+<img height='200em' src='https://github-readme-stats-dviniciusbr.vercel.app/api/top-langs/?username=dviniciusbr&count_private=true&show_icons=true&bg_color=000000&icon_color=FFFFFF&locale=pt-br&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15'></img>
 </a>
 </p>
 
