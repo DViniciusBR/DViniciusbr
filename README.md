@@ -7,7 +7,7 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left">DAVI VINICIUS</h1>
+ <h1 align="left">Olá, seja bem-vindo ao meu perfil</h1>
  <a href="https://www.instagram.com/davi.viniciusbr/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -40,9 +40,9 @@
 </br>
 
 <div display="inline-block">
- <p align="left">🤿 Sou técnico em desenvolvimento de sistemas </p>
+ <p align="left">👨🏽‍💻 Sou técnico em desenvolvimento de sistemas </p>
  <p align="left">📚 Atualmente curso ciência da computação</p>
- <p align="left">☕🎮 Estou estudando desenvolvimento web e procurando me identificar com o front-end e back-end. Talvez, depois de muito chorar com aquele ponto e vírgula que esqueci durante o código, possa me tornar um desenvolvedor full-stack.</p>
+ <p align="left">(┬┬﹏┬┬) Estou estudando desenvolvimento web e procurando me identificar com o front-end e back-end. Talvez, depois de muito chorar com aquele ponto e vírgula que esqueci durante o código, possa me tornar um desenvolvedor full-stack.</p>
 </div>
   
 ##
