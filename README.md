@@ -41,7 +41,7 @@
 
 <div display="inline-block">
  <p align="left">👨🏽‍💻 Sou técnico em desenvolvimento de sistemas </p>
- <p align="left">📚 Atualmente curso ciência da computação</p>
+ <p align="left">📚 Atualmente cursando Ciência da Computação e Ciência de Dados</p>
  <p align="left">(┬┬﹏┬┬) Estou estudando desenvolvimento web e procurando me identificar com o front-end e back-end. Talvez, depois de muito chorar com aquele ponto e vírgula que esqueci durante o código, possa me tornar um desenvolvedor full-stack.</p>
 </div>
   
